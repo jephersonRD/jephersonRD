@@ -59,7 +59,6 @@ const jephersonProfile = {
   
   estado: "Siempre aprendiendo algo nuevo 🚀",
   filosofia: "El código es poesía, la optimización es arte"
-};
 ```
 
 ---
