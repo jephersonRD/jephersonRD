@@ -18,40 +18,6 @@
   <img src="https://img.shields.io/badge/Foco-Optimizaci%C3%B3n-ff5f5f?style=for-the-badge" alt="Focus Optimization"/>
 </p>
 
----
-
-## 👨‍💻 Sobre Mí - Jepherson Medina (@jephersonRD)
-
-```yaml
-👤 Nombre: Jepherson Medina
-📍 Ubicación: República Dominicana 🇩🇴
-💼 Rol: Full Stack Developer & Content Creator
-📚 Formación: Autodidacta Apasionado
-🌐 Username: @jephersonRD
-
-🎯 Especialidades:
-  • Web Development (React, Django, Python, JavaScript)
-  • Game Development & Modding
-  • System Optimization & Performance Tuning
-  • Automation Tools & Scripts
-  • Remote Streaming Solutions
-  • Tech Education & Tutorials
-
-🎬 Creador de Contenido:
-  • YouTube: Tutoriales de programación y tech
-  • TikTok: Tips rápidos de desarrollo
-  • Instagram: Behind the scenes de proyectos
-
-📊 Stats:
-  • Proyectos Activos: 4+
-  • Seguidores: 2K+
-  • Lenguajes: Python, JavaScript, Bash, SQL
-  • Cafés al Día: ☕ ∞
-
-💡 Meta: "Construir soluciones que impacten vidas 🚀"
-✨ Filosofía: "El código limpio es el arte de la simplicidad"
-🔥 Hashtags: #jephersonRD #DevRD #TechRD #CodingRD
-```
 
 ---
 
@@ -275,27 +241,6 @@ Remote Solutions • System Administration • Video Tutorials • Programming C
 
 ---
 
-## 🎯 Objetivos 2025 - JephersonRD
-
-- [ ] Lanzar 5 proyectos open source importantes
-- [ ] Crear 50+ tutoriales en YouTube (@jephersonRD)
-- [ ] Alcanzar 10K seguidores en TikTok (@jepherson_rd)
-- [ ] Contribuir a proyectos internacionales de código abierto
-- [ ] Desarrollar mi propio framework de optimización
-- [ ] Mentorear a desarrolladores junior en República Dominicana
-- [ ] Expandir PC-Free a una suite completa de herramientas
-- [ ] Colaborar con otros creadores de contenido tech
-
----
-
-## 📚 Contenido Educativo - Tech Tutorials
-
-### 📹 Últimos Videos y Tutoriales
-- Optimización de Windows con Python
-- Desarrollo de aplicaciones con React y Django
-- Creación de mods para juegos
-- Automatización de tareas con Bash
-- Streaming remoto DIY
 
 ### 🎓 Temas que Enseño
 `Python` • `JavaScript` • `React` • `Django` • `Git` • `Linux` • `System Optimization` • `Game Modding` • `Web Development` • `Automation`
