@@ -1,93 +1,136 @@
-<!-- Professional README for Jepherson -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" alt="Header GIF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jepherson%20Medina&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Content%20Creator&descSize=20&descAlignY=55" alt="Header" style="max-width: 100%;"/>
 </div>
 
 <h1 align="center">
-  ¡Hola, soy Jepherson! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Especialista+en+Optimizaci%C3%B3n+%E2%9A%A1;Creador+de+Contenido+Tech+%F0%9F%8E%AC" alt="Typing SVG" style="max-width: 100%;"/>
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5F5F&size=28&center=true&vCenter=true&width=600&height=45&lines=Desarrollador+Full+Stack;Especialista+en+Optimización;Creador+de+Contenido;Apasionado+por+la+Tecnología" alt="Typing Animation" />
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jephersonRD?label=Seguidores&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/jephersonRD?label=Estrellas&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas&color=ff5f5f&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jephersonRD?label=Seguidores&style=for-the-badge&color=ff5f5f" alt="Followers" />
+  <img src="https://img.shields.io/badge/Foco-Optimizaci%C3%B3n-ff5f5f?style=for-the-badge" alt="Focus"/>
 </p>
+
+---
+
+## 👨‍💻 Sobre Mí
+
+```yaml
+👤 Nombre: Jepherson Medina
+📍 Ubicación: República Dominicana 🇩🇴
+💼 Rol: Full Stack Developer
+📚 Formación: Autodidacta Apasionado
+
+🎯 Especialidades:
+  • Web Apps, Game Development, Automation Tools
+  • System Performance, Resource Management
+  • Remote Streaming, Multi-platform Control
+  • Tech Tutorials, Code Reviews, Gaming
+
+📊 Stats:
+  • Proyectos Activos: 4
+  • Seguidores: 2K+
+  • Cafés al Día: ☕ ∞
+
+💡 Meta: "Construir soluciones que impacten vidas 🚀"
+✨ Filosofía: "El código limpio es el arte de la simplicidad"
+```
+
+### 🎯 Lo Que Hago
+
+- 🔧 **Desarrollo soluciones** que optimizan sistemas y mejoran el rendimiento
+- 🎮 **Creo experiencias gaming** personalizadas con mods y servidores
+- 🤖 **Automatizo procesos** para hacer la vida más fácil
+- 📱 **Desarrollo herramientas** de streaming y control remoto
+- 🎥 **Comparto conocimiento** en mis redes sociales (@jepherson_rd)
 
 ---
 
 ## 🌐 Conecta Conmigo
 
 <div align="center">
-  <a href="https://www.tiktok.com/@jepherson_rd" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://www.instagram.com/jepherson_medina/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@jephersonRD" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://github.com/jephersonRD" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://www.tiktok.com/@jepherson_rd">
+<img src="https://img.icons8.com/fluency/96/tiktok.png" width="80px" alt="TikTok"/><br>
+<sub><b>TikTok</b></sub><br>
+<sub>@jepherson_rd</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.instagram.com/jepherson_medina/">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="80px" alt="Instagram"/><br>
+<sub><b>Instagram</b></sub><br>
+<sub>@jepherson_medina</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.youtube.com/@jephersonRD">
+<img src="https://img.icons8.com/fluency/96/youtube-play.png" width="80px" alt="YouTube"/><br>
+<sub><b>YouTube</b></sub><br>
+<sub>@jephersonRD</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/jephersonRD">
+<img src="https://img.icons8.com/fluency/96/github.png" width="80px" alt="GitHub"/><br>
+<sub><b>GitHub</b></sub><br>
+<sub>jephersonRD</sub>
+</a>
+</td>
+</tr>
+</table>
+
+<p>
+<a href="https://www.tiktok.com/@jepherson_rd">
+<img src="https://img.shields.io/badge/Sígueme_en_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=FF0050"/>
+</a>
+<a href="https://www.instagram.com/jepherson_medina/">
+<img src="https://img.shields.io/badge/Sígueme_en_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
+</a>
+<a href="https://www.youtube.com/@jephersonRD">
+<img src="https://img.shields.io/badge/Suscríbete_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000"/>
+</a>
+</p>
+
 </div>
-
----
-
-## 👨‍💻 Sobre Mí
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```typescript
-const jephersonProfile = {
-  nombre: "Jepherson Medina",
-  profesion: "Full Stack Developer",
-  ubicacion: "República Dominicana",
-  formacion: "Autodidacta apasionado",
-  
-  habilidadesDestacadas: [
-    "Optimización avanzada de sistemas",
-    "Game Dev (Desarrollo de videojuegos)",
-    "Automatización inteligente de procesos",
-    "Streaming remoto y control multiplataforma"
-  ],
-  
-  estado: "Siempre aprendiendo algo nuevo 🚀",
-  filosofia: "El código es poesía, la optimización es arte"
-```
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</div>
 
-### Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-</div>
+### 💎 Frontend
 
-### Herramientas y Servicios
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" /></a>
+
+### ⚙️ Backend
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python,django,bash,mysql" /></a>
+
+### 🔧 Herramientas & DevOps
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,vscode,postman,github,linux,docker" /></a>
+
+---
+
+<details>
+<summary>📚 <b>Ver Stack Completo</b></summary>
+<br>
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+
+</details>
+
 </div>
 
 ---
@@ -95,92 +138,161 @@ const jephersonProfile = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jephersonRD&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" style="max-width: 100%;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jephersonRD&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jephersonRD&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages" style="max-width: 100%;"/>
 </div>
 
----
-
-## 🎯 Proyectos Destacados
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jephersonRD&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" style="max-width: 100%;"/>
+</div>
 
 <div align="center">
-  <a href="https://github.com/jephersonRD/PC-Free">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Free&theme=radical" alt="PC-Free"/>
-  </a>
-  <a href="https://github.com/jephersonRD/ModerLauncher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=ModerLauncher&theme=radical" alt="ModerLauncher"/>
-  </a>
-  <a href="https://github.com/jephersonRD/PC-Cloud-V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Cloud-V2&theme=radical" alt="PC-Cloud-V2"/>
-  </a>
-  <a href="https://github.com/jephersonRD/Linux-Mobile-local">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=Linux-Mobile-local&theme=radical" alt="Linux-Mobile-local"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=jephersonRD&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies" style="max-width: 100%;"/>
 </div>
 
 ---
 
-## 🚀 Áreas de Especialización
+## 🚀 Proyectos Destacados
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" alt="Desarrollo Web"/>
-      <br><strong>Desarrollo Web</strong>
-      <br>Frontend y Backend
-    </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Gaming"/>
-      <br><strong>Gaming</strong>
-      <br>Mods y Servidores
-    </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" alt="Automatización"/>
-      <br><strong>Automatización</strong>
-      <br>Scripts y Herramientas
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 [PC-Free](https://github.com/jephersonRD/PC-Free)
+**Sistema de optimización avanzada**
+
+[![PC-Free](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Free&theme=radical&border_radius=10)](https://github.com/jephersonRD/PC-Free)
 
 ---
 
-## 🎮 Diversión Extra
+### 🎮 [ModerLauncher](https://github.com/jephersonRD/ModerLauncher)
+**Launcher personalizado para gaming**
 
-<div align="center">
-  <h3>¡Loros de Fiesta!</h3>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30" />
-</div>
+[![ModerLauncher](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=ModerLauncher&theme=radical&border_radius=10)](https://github.com/jephersonRD/ModerLauncher)
 
-<div align="center">
-  <h3>😂 Chiste del Día</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>
+---
+
+### ☁️ [PC-Cloud-V2](https://github.com/jephersonRD/PC-Cloud-V2)
+**Solución de streaming remoto**
+
+[![PC-Cloud-V2](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Cloud-V2&theme=radical&border_radius=10)](https://github.com/jephersonRD/PC-Cloud-V2)
+
+---
+
+### 🐧 [Linux-Mobile-Local](https://github.com/jephersonRD/Linux-Mobile-local)
+**Linux en dispositivos móviles**
+
+[![Linux-Mobile-Local](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=Linux-Mobile-local&theme=radical&border_radius=10)](https://github.com/jephersonRD/Linux-Mobile-local)
+
 </div>
 
 ---
 
-## 📈 Actividad Reciente
+## 🎯 Áreas de Especialización
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+
+🌐 **Desarrollo Web** • 🎮 **Gaming & Mods** • ⚡ **Automatización** • 🚀 **Optimización**
+
+Full Stack Applications • Servidores y Modificaciones • Scripts y Herramientas • Alto Rendimiento
+
+</div>
+
+---
+
+## 📈 Actividad y Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jephersonRD&theme=react-dark&hide_border=false&area=true&custom_title=Gráfico%20de%20Contribuciones" alt="Activity Graph" style="max-width: 100%;"/>
+</div>
+
+---
+
+## 💡 Filosofía de Desarrollo
+
+<div align="center">
+  
+> *"El código es poesía, la optimización es arte"*
+
+```
+╔═══════════════════════════════════════════╗
+║  💻 Escribo código limpio                ║
+║  ⚡ Optimizo sin comprometer             ║
+║  🎯 Soluciono problemas reales           ║
+║  🤝 Comparto conocimiento                ║
+║  🚀 Nunca dejo de aprender               ║
+╚═══════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📺 Contenido y Comunidad
+
+<div align="center">
+
+### 🎥 Sígueme en Redes Sociales
+
+🎵 **TikTok** - Tips rápidos y trucos de programación
+
+[@jepherson_rd](https://www.tiktok.com/@jepherson_rd)
+
+📺 **YouTube** - Tutoriales completos y proyectos
+
+[@jephersonRD](https://www.youtube.com/@jephersonRD)
+
+📷 **Instagram** - Detrás de escenas y actualizaciones
+
+[@jepherson_medina](https://www.instagram.com/jepherson_medina/)
+
+</div>
+
+---
+
+## 🎯 Objetivos 2025
+
+- [ ] Lanzar 5 proyectos open source importantes
+- [ ] Crear 50+ tutoriales en YouTube
+- [ ] Alcanzar 10K seguidores en TikTok
+- [ ] Contribuir a proyectos internacionales
+- [ ] Desarrollar mi propio framework de optimización
+- [ ] Mentorear a desarrolladores junior
+
+---
+
+## 😄 Fun Zone
+
+<div align="center">
+  
+### Chiste de Programador del Día
+<img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=FF5F5F" alt="Jokes Card" style="max-width: 100%;"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave"> 
+  <br><br>
+  
+  ## ¡Gracias por Visitar mi Perfil! 🚀
+  
+  **Siempre abierto a colaboraciones, nuevas oportunidades y conexiones**
+  
   <br>
-  <strong>¡Gracias por visitar mi perfil!</strong>
+  
+  ¿Te gustó algo de lo que viste? ¡Dale una ⭐ a mis repositorios!
+  
   <br>
-  <em>Siempre abierto a colaboraciones y nuevas oportunidades</em>
+  
+  ![Made with Love](https://img.shields.io/badge/Made_with-❤️_and_☕-FF5F5F?style=for-the-badge)
+  
 </div>
 
+---
+
 <div align="center">
-  <sub>⭐ ¡No olvides darle una estrella a mis repositorios si te gustaron! ⭐</sub>
+  <sub>© 2025 Jepherson Medina • Full Stack Developer • República Dominicana 🇩🇴</sub>
 </div>
