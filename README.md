@@ -218,26 +218,6 @@ Remote Solutions • System Administration • Video Tutorials • Programming C
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jephersonRD&theme=react-dark&hide_border=false&area=true&custom_title=Gráfico%20de%20Contribuciones%20-%20JephersonRD" alt="Activity Graph JephersonRD" style="max-width: 100%;"/>
 </div>
 
----
-
-## 💡 Filosofía de Desarrollo - @jephersonRD
-
-<div align="center">
-  
-> *"El código es poesía, la optimización es arte"* - Jepherson Medina
-
-```
-╔═══════════════════════════════════════════╗
-║  💻 Escribo código limpio y mantenible   ║
-║  ⚡ Optimizo sin comprometer calidad     ║
-║  🎯 Soluciono problemas reales           ║
-║  🤝 Comparto conocimiento abiertamente   ║
-║  🚀 Nunca dejo de aprender y crecer     ║
-║  🇩🇴 Representando a República Dominicana ║
-╚═══════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
