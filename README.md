@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Especialista+en+Optimizaci%C3%B3n+%E2%9A%A1;Creador+de+Contenido+Tech+%F0%9F%8E%AC" alt="Typing SVG" style="max-width: 100%;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Especialista+en+Optimizaci%C3%B3n+%E2%9A%A1;Creador+de+Contenido+Tech+%F0%9F%8E%AC" alt="Typing SVG" style="max-width: 100%;"/>
 </h1>
 
 <p align="center">
@@ -37,13 +37,6 @@
 ✨ Filosofía: "El código limpio es el arte de la simplicidad"
 ```
 
-### 🎯 Lo Que Hago
-
-- 🔧 **Desarrollo soluciones** que optimizan sistemas y mejoran el rendimiento
-- 🎮 **Creo experiencias gaming** personalizadas con mods y servidores
-- 🤖 **Automatizo procesos** para hacer la vida más fácil
-- 📱 **Desarrollo herramientas** de streaming y control remoto
-- 🎥 **Comparto conocimiento** en mis redes sociales (@jepherson_rd)
 
 ---
 
@@ -242,27 +235,6 @@ Full Stack Applications • Servidores y Modificaciones • Scripts y Herramient
 
 ---
 
-## 📺 Contenido y Comunidad
-
-<div align="center">
-
-### 🎥 Sígueme en Redes Sociales
-
-🎵 **TikTok** - Tips rápidos y trucos de programación
-
-[@jepherson_rd](https://www.tiktok.com/@jepherson_rd)
-
-📺 **YouTube** - Tutoriales completos y proyectos
-
-[@jephersonRD](https://www.youtube.com/@jephersonRD)
-
-📷 **Instagram** - Detrás de escenas y actualizaciones
-
-[@jepherson_medina](https://www.instagram.com/jepherson_medina/)
-
-</div>
-
----
 
 ## 🎯 Objetivos 2025
 
