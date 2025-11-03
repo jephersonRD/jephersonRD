@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jepherson%20Medina&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Content%20Creator&descSize=20&descAlignY=55" alt="chucho Medina - Full Stack Developer - República Dominicana" style="max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jepherson%20Medina&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Content%20Creator&descSize=20&descAlignY=55" alt=" Jepherson Medina - Full Stack Developer - República Dominicana" style="max-width: 100%;"/>
 </div>
 
 <!-- SEO Optimizado -->
