@@ -113,25 +113,13 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true)](https://github.com/jephersonRD)
-
-</div>
-
-<div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jephersonRD&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD)
-
-</div>
-
-<div align="center">
-  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jephersonRD&theme=radical&hide_border=true&border_radius=10)](https://github.com/jephersonRD)
 
 </div>
 
-<div align="center">
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jephersonRD&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/jephersonRD)
+**Desarrollador Full Stack** especializado en Python, Django, React y tecnologías web modernas.
+
+🔥 Apasionado por la optimización de sistemas y la creación de soluciones innovadoras.
 
 </div>
 
@@ -145,26 +133,22 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💻 PC-Free
+### 💻 [PC-Free](https://github.com/jephersonRD/PC-Free)
 **Sistema de optimización avanzada para Windows**
 - Mejora el rendimiento del sistema
 - Limpieza profunda y automatizada
 - Gestión de recursos optimizada
-
-[![PC-Free](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Free&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD/PC-Free)
 
 **Tech:** `Python` `Batch` `PowerShell`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 ModerLauncher
+### 🎮 [ModerLauncher](https://github.com/jephersonRD/ModerLauncher)
 **Launcher personalizado para gaming**
 - Gestión de mods y configuraciones
 - Interfaz intuitiva y moderna
 - Optimización de rendimiento en juegos
-
-[![ModerLauncher](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=ModerLauncher&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD/ModerLauncher)
 
 **Tech:** `Python` `React` `Electron`
 
@@ -173,26 +157,22 @@
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ PC-Cloud-V2
+### ☁️ [PC-Cloud-V2](https://github.com/jephersonRD/PC-Cloud-V2)
 **Solución de streaming remoto multiplataforma**
 - Acceso remoto a tu PC desde cualquier lugar
 - Streaming de alta calidad
 - Control total desde dispositivos móviles
-
-[![PC-Cloud-V2](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Cloud-V2&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD/PC-Cloud-V2)
 
 **Tech:** `Python` `Django` `WebRTC`
 
 </td>
 <td width="50%" valign="top">
 
-### 🐧 Linux-Mobile-Local
+### 🐧 [Linux-Mobile-Local](https://github.com/jephersonRD/Linux-Mobile-local)
 **Ejecuta Linux en dispositivos móviles Android**
 - Distribuciones Linux completas
 - Sin root requerido
 - Interfaz gráfica completa
-
-[![Linux-Mobile-Local](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=Linux-Mobile-local&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD/Linux-Mobile-local)
 
 **Tech:** `Bash` `Linux` `Termux`
 
