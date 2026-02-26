@@ -112,19 +112,27 @@
 ## 📊 Estadísticas de GitHub - @jephersonRD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats JephersonRD" style="max-width: 100%;"/>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jephersonRD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true)](https://github.com/jephersonRD)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jephersonRD&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages JephersonRD Python React Django" style="max-width: 100%;"/>
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jephersonRD&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jephersonRD&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak JephersonRD" style="max-width: 100%;"/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jephersonRD&theme=radical&hide_border=true&border_radius=10)](https://github.com/jephersonRD)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jephersonRD&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies JephersonRD" style="max-width: 100%;"/>
+  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jephersonRD&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/jephersonRD)
+
 </div>
 
 ---
@@ -143,7 +151,7 @@
 - Limpieza profunda y automatizada
 - Gestión de recursos optimizada
 
-[![PC-Free](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Free&theme=radical&border_radius=10)](https://github.com/jephersonRD/PC-Free)
+[![PC-Free](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Free&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD/PC-Free)
 
 **Tech:** `Python` `Batch` `PowerShell`
 
@@ -156,7 +164,7 @@
 - Interfaz intuitiva y moderna
 - Optimización de rendimiento en juegos
 
-[![ModerLauncher](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=ModerLauncher&theme=radical&border_radius=10)](https://github.com/jephersonRD/ModerLauncher)
+[![ModerLauncher](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=ModerLauncher&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD/ModerLauncher)
 
 **Tech:** `Python` `React` `Electron`
 
@@ -171,7 +179,7 @@
 - Streaming de alta calidad
 - Control total desde dispositivos móviles
 
-[![PC-Cloud-V2](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Cloud-V2&theme=radical&border_radius=10)](https://github.com/jephersonRD/PC-Cloud-V2)
+[![PC-Cloud-V2](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Cloud-V2&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD/PC-Cloud-V2)
 
 **Tech:** `Python` `Django` `WebRTC`
 
@@ -184,7 +192,7 @@
 - Sin root requerido
 - Interfaz gráfica completa
 
-[![Linux-Mobile-Local](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=Linux-Mobile-local&theme=radical&border_radius=10)](https://github.com/jephersonRD/Linux-Mobile-local)
+[![Linux-Mobile-Local](https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=Linux-Mobile-local&theme=radical&border_radius=10&hide_border=true)](https://github.com/jephersonRD/Linux-Mobile-local)
 
 **Tech:** `Bash` `Linux` `Termux`
 
@@ -215,7 +223,9 @@ Remote Solutions • System Administration • Video Tutorials • Programming C
 ## 📈 Actividad y Contribuciones - Jepherson Medina
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jephersonRD&theme=react-dark&hide_border=false&area=true&custom_title=Gráfico%20de%20Contribuciones%20-%20JephersonRD" alt="Activity Graph JephersonRD" style="max-width: 100%;"/>
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jephersonRD&theme=react-dark&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuciones%20-%20JephersonRD)](https://github.com/jephersonRD)
+
 </div>
 
 
