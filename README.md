@@ -28,7 +28,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://www.tiktok.com/@jepherson_rd" target="_blank" rel="noopener noreferrer">
+<a href="https://www.tiktok.com/@jephMD" target="_blank" rel="noopener noreferrer">
 <img src="https://img.icons8.com/fluency/96/tiktok.png" width="80px" alt="TikTok JephersonRD"/><br>
 <sub><b>TikTok</b></sub><br>
 <sub>@jepherson_rd</sub>
@@ -42,7 +42,7 @@
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.youtube.com/@jephersonRD" target="_blank" rel="noopener noreferrer">
+<a href="https://www.youtube.com/@jephMD" target="_blank" rel="noopener noreferrer">
 <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="80px" alt="YouTube JephersonRD"/><br>
 <sub><b>YouTube</b></sub><br>
 <sub>@jephersonRD</sub>
