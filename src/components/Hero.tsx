@@ -1,8 +1,16 @@
 import { motion } from 'motion/react'
+import { Code2, Server, Wrench, Gamepad2 } from 'lucide-react'
 import { Navbar } from './Navbar'
 import { HeroBadge } from './HeroBadge'
 import { BottomLeftCard } from './BottomLeftCard'
 import { BottomRightCorner } from './BottomRightCorner'
+
+const SKILLS = [
+  { icon: Code2, label: 'Frontend' },
+  { icon: Server, label: 'Backend' },
+  { icon: Wrench, label: 'Herramientas' },
+  { icon: Gamepad2, label: 'Game Dev' },
+]
 
 export function Hero() {
   return (
@@ -36,14 +44,29 @@ export function Hero() {
               jephMD
             </motion.h1>
 
-            <motion.p
-              className="text-sm sm:text-base md:text-lg text-[#5E6470] opacity-80 leading-relaxed max-w-xl font-normal"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
+            <motion.div
+              className="flex items-center justify-center gap-4 sm:gap-6 md:gap-8 mt-4"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              Access Smart Vaults, stake RIVR, NFTs, transform rigid holdings into liquid cash instantly.
-            </motion.p>
+              {SKILLS.map((skill, i) => (
+                <motion.div
+                  key={skill.label}
+                  className="flex flex-col items-center gap-2"
+                  initial={{ opacity: 0, scale: 0.8 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  transition={{ duration: 0.5, delay: 0.5 + i * 0.1 }}
+                >
+                  <div className="w-14 h-14 sm:w-16 sm:h-16 md:w-20 md:h-20 rounded-full bg-white/30 backdrop-blur-md border border-white/20 flex items-center justify-center hover:bg-white/50 transition-colors cursor-pointer">
+                    <skill.icon className="w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 text-[rgba(30,50,90,0.8)]" />
+                  </div>
+                  <span className="text-[10px] sm:text-xs md:text-sm font-normal text-[rgba(30,50,90,0.7)]">
+                    {skill.label}
+                  </span>
+                </motion.div>
+              ))}
+            </motion.div>
           </div>
 
           <BottomLeftCard />
